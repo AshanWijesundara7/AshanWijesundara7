@@ -74,8 +74,8 @@ These projects reflect my ability to design user-focused interfaces and implemen
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshanMaliduWijesundara7&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshanMaliduWijesundara7&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AshanWijesundara7&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshanWijesundara7&layout=compact&theme=tokyonight" />
 </p>
 
 ---

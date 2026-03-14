@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AshanMaliduWijesundara&color=blue" />
-  <img src="https://img.shields.io/github/followers/AshanMaliduWijesundara?label=Followers&style=social" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=AshanMaliduWijesundara&color=blue" /></p>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjkxOHFzenV5Y3NqNnNweDEyOG11eWNvNmhicmhzc2s5dHAyYWNsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="100" />

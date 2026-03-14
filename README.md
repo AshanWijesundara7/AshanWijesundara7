@@ -1,4 +1,4 @@
-# 👋 Ashan Malidu Wijesundara
+# Ashan Malidu Wijesundara
 
 <p align="center">
 💻 Computer Science Undergraduate | 🚀

@@ -1,86 +1,55 @@
-# Ashan Malidu Wijesundara
+# Hi there, I'm [Your Name] 👋 👨‍💻
+
+### 🚀 Computer Science Undergraduate | Aspiring Full-Stack Developer
+
+I am a passionate CS student dedicated to bridging the gap between academic theory and real-world software solutions. Currently, I'm focused on mastering the MERN stack and building applications that scale.
+
+---
+
+### 👨‍💻 About Me
+* 🔭 I’m currently working on **[Project Name/Internship]**
+* 🌱 Learning the intricacies of **Cloud Architecture** and **DevOps**
+* 🧠 I believe in writing code that is as readable as a book and as efficient as a Swiss watch.
+* 📫 How to reach me: **[Your Email]** or **[LinkedIn Link]**
+
+---
+
+### 🛠 Technical Toolbox
+
+#### 🌐 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🚀 Frameworks & Technologies
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-blue?style=for-the-badge&logo=python&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-60B0E6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
+---
+
+### 📊 GitHub Stats & Activity
+| **My Contributions** | **Most Used Languages** |
+| :--- | :--- |
+| <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=tokyonight&hide_border=true" width="400px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=tokyonight&hide_border=true" width="300px" /> |
+
+---
+
+### 🧩 Current Focus: Core CS Areas
+* **Data Structures & Algorithms** (Solving the "unsolvable")
+* **Database Management** (Relational & NoSQL)
+* **Operating Systems** (Getting close to the metal)
+
+---
+
+### ⚡ Fun Fact
+> "The best error message is the one that never shows up." 
+> When I'm not debugging, you can find me [mention a hobby, e.g., gaming, hiking, or coffee brewing].
 
 <p align="center">
-💻 Computer Science Undergraduate | 🚀
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
-
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2c1ZGcwcnR2dWNqeXQyNXFmMHcwcTZuYTNidWpseGNqbWI3a2c0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.gif" width="100" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-🎓 I am a Computer Science undergraduate seeking internship opportunities to apply academic knowledge in real-world software development environments.
-
-🚀 Interested in full-stack development and building scalable applications.
-
-🧠 I focus on writing clean, maintainable code and continuously improving my problem-solving skills.
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### ⚙️ Frameworks & Technologies  
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-FFCA28?style=for-the-badge)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-
-### 🧩 Core Areas  
-Web Development • Full-Stack Applications • Data Handling • GUI Development • Problem Solving  
-
----
-
-## 🚀 Projects Overview
-
-I have developed multiple academic and personal projects demonstrating practical experience in software and web development.
-
-🌐 Built responsive web applications using React, Next.js, HTML, CSS, and JavaScript — including business landing pages, educational platforms, and portfolio websites.
-
-🐍 Developed Python-based systems such as a banking system, task manager, and a Traffic Data Analysis System with a Tkinter-based GUI for data visualization.
-
-⚙️ Contributed to a private full-stack project using React, MongoDB, and Next.js, strengthening my understanding of frontend-backend integration and database architecture.
-
-These projects reflect my ability to design user-focused interfaces and implement structured backend logic.
-
----
-
-## 📚 Currently Learning
-
-- Advanced React patterns  
-- Backend architecture principles  
-- Data Structures & Algorithms  
-- Software development best practices  
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshanWijesundara7&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshanWijesundara7&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📫 Contact
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&1ogo=gmail&1ogoColor=white)](mailto:ashanmalidu474@gmail.com.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ashan-wijesundara-36b80431a)
-
----
-
-✨ *Open to internship opportunities and collaborative projects.*

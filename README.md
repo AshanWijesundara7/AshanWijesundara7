@@ -1,73 +1,81 @@
-<div align="center">
 
-# 🚀 Hello, World! I'm [Your Name]
-### 🎓 Computer Science Undergraduate | Full-Stack Architect in Training
+
+
+
+
+
+# Ashan Malidu Wijesundara
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Internships-success?style=for-the-badge">
+💻 Computer Science Undergraduate | 🚀
+</p>
+
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2c1ZGcwcnR2dWNqeXQyNXFmMHcwcTZuYTNidWpseGNqbWI3a2c0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.gif" width="100" />
 </p>
 
 ---
 
-"Bridging the gap between academic theory and real-world scalable solutions."
+## 👨‍💻 About Me
 
-[LinkedIn](Your_Link) • [Portfolio](Your_Link) • [Email](mailto:your@email.com)
+🎓 I am a Computer Science undergraduate seeking internship opportunities to apply academic knowledge in real-world software development environments.
 
-</div>
+🚀 Interested in full-stack development and building scalable applications.
 
-## 📑 Profile Overview
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👨‍💻 About Me</h3>
-      <ul>
-        <li>🔭 <b>Current Project:</b> [Project Name]</li>
-        <li>🌱 <b>Deep Diving:</b> Cloud Architecture & DevOps</li>
-        <li>🧠 <b>Philosophy:</b> Code should be as readable as a book and as efficient as a Swiss watch.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧩 Core CS Pillars</h3>
-      <ul>
-        <li>⚡ <b>DSA:</b> Solving the "unsolvable" efficiency problems.</li>
-        <li>🗄️ <b>Databases:</b> Relational & NoSQL (MongoDB Expert).</li>
-        <li>💻 <b>Systems:</b> Operating Systems & Low-level logic.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+🧠 I focus on writing clean, maintainable code and continuously improving my problem-solving skills.
 
 ---
 
-## 🛠 Technical Ecosystem
+## 🛠️ Technical Skills
+
+### 💻 Languages
 
 ### 🌐 Languages & Core
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,js,java,html,css,cpp" />
 </p>
+### ⚙️ Frameworks & Technologies  
 
-### 🚀 Frameworks & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,mongodb,nodejs,express,tailwind,git" />
 </p>
 
----
 
-## 📊 Performance Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
 
 ---
 
+## — Projects Overview
+
+I have developed multiple academic and personal projects demonstrating practical experience in software and web development.
+
+🌐 Built responsive web applications using React, Next.js, HTML, CSS, and JavaScript — including business landing pages, educational platforms, and portfolio websites.
+
+🐍 Developed Python-based systems such as a banking system, task manager, and a Traffic Data Analysis System with a Tkinter-based GUI for data visualization.
+
+⚙️ Contributed to a private full-stack project using React, MongoDB, and Next.js, strengthening my understanding of frontend-backend integration and database architecture.
+
+These projects reflect my ability to design user-focused interfaces and implement structured backend logic.
+
+---
+
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50&section=footer&text=Keep%20Coding%20|%20Keep%20Growing&fontSize=20" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AshanWijesundara7&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshanWijesundara7&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&1ogo=gmail&1ogoColor=white)](mailto:ashanmalidu474@gmail.com.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ashan-wijesundara-36b80431a)
+
+---
+
+✨ *Open to internship opportunities and collaborative projects.*
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/> </p>

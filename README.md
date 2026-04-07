@@ -1,9 +1,3 @@
-
-
-
-
-
-
 # Ashan Malidu Wijesundara
 
 <p align="center">
@@ -12,7 +6,8 @@
 
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2c1ZGcwcnR2dWNqeXQyNXFmMHcwcTZuYTNidWpseGNqbWI3a2c0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTd4cW91ZjVhZnJwZThhd3Y4NDVzeWltMjc4c2sxOGc2bG1icGJ5aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
+  
 </p>
 
 ---

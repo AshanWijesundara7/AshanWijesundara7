@@ -1,8 +1,6 @@
 # Hi there, I'm [Your Name] 👋 👨‍💻
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</p>
+
 
 ### 🚀 Computer Science Undergraduate | Aspiring Full-Stack Developer
 
@@ -49,4 +47,6 @@ I am a passionate CS student dedicated to bridging the gap between academic theo
 * **Operating Systems** (Getting close to the metal)
 
 ---
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</p>

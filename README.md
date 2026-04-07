@@ -1,52 +1,73 @@
-# Hi there, I'm [Your Name] 👋 👨‍💻
+<div align="center">
 
+# 🚀 Hello, World! I'm [Your Name]
+### 🎓 Computer Science Undergraduate | Full-Stack Architect in Training
 
-
-### 🚀 Computer Science Undergraduate | Aspiring Full-Stack Developer
-
-I am a passionate CS student dedicated to bridging the gap between academic theory and real-world software solutions. Currently, I'm focused on mastering the MERN stack and building applications that scale.
-
----
-
-### 👨‍💻 About Me
-* 🔭 I’m currently working on **[Project Name/Internship]**
-* 🌱 Learning the intricacies of **Cloud Architecture** and **DevOps**
-* 🧠 I believe in writing code that is as readable as a book and as efficient as a Swiss watch.
-* 📫 How to reach me: **[Your Email]** or **[LinkedIn Link]**
-
----
-
-### 🛠 Technical Toolbox
-
-#### 🌐 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-#### 🚀 Frameworks & Technologies
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-blue?style=for-the-badge&logo=python&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-60B0E6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-
----
-
-### 📊 GitHub Stats & Activity
-| **My Contributions** | **Most Used Languages** |
-| :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=tokyonight&hide_border=true" width="400px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=tokyonight&hide_border=true" width="300px" /> |
-
----
-
-### 🧩 Current Focus: Core CS Areas
-* **Data Structures & Algorithms** (Solving the "unsolvable")
-* **Database Management** (Relational & NoSQL)
-* **Operating Systems** (Getting close to the metal)
-
----
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Internships-success?style=for-the-badge">
+</p>
+
+---
+
+"Bridging the gap between academic theory and real-world scalable solutions."
+
+[LinkedIn](Your_Link) • [Portfolio](Your_Link) • [Email](mailto:your@email.com)
+
+</div>
+
+## 📑 Profile Overview
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>🔭 <b>Current Project:</b> [Project Name]</li>
+        <li>🌱 <b>Deep Diving:</b> Cloud Architecture & DevOps</li>
+        <li>🧠 <b>Philosophy:</b> Code should be as readable as a book and as efficient as a Swiss watch.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 Core CS Pillars</h3>
+      <ul>
+        <li>⚡ <b>DSA:</b> Solving the "unsolvable" efficiency problems.</li>
+        <li>🗄️ <b>Databases:</b> Relational & NoSQL (MongoDB Expert).</li>
+        <li>💻 <b>Systems:</b> Operating Systems & Low-level logic.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠 Technical Ecosystem
+
+### 🌐 Languages & Core
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,java,html,css,cpp" />
+</p>
+
+### 🚀 Frameworks & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,mongodb,nodejs,express,tailwind,git" />
+</p>
+
+---
+
+## 📊 Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50&section=footer&text=Keep%20Coding%20|%20Keep%20Growing&fontSize=20" width="100%"/>
 </p>

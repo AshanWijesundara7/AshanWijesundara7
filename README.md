@@ -1,5 +1,9 @@
 # Hi there, I'm [Your Name] 👋 👨‍💻
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</p>
+
 ### 🚀 Computer Science Undergraduate | Aspiring Full-Stack Developer
 
 I am a passionate CS student dedicated to bridging the gap between academic theory and real-world software solutions. Currently, I'm focused on mastering the MERN stack and building applications that scale.
@@ -46,10 +50,3 @@ I am a passionate CS student dedicated to bridging the gap between academic theo
 
 ---
 
-### ⚡ Fun Fact
-> "The best error message is the one that never shows up." 
-> When I'm not debugging, you can find me [mention a hobby, e.g., gaming, hiking, or coffee brewing].
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</p>

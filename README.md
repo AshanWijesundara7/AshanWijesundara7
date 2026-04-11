@@ -1,7 +1,7 @@
 # Ashan Malidu Wijesundara
 
 <p align="center">
-💻 Computer Science Undergraduate | 🚀
+💻 Computer Science Undergraduate |
 </p>
 
 

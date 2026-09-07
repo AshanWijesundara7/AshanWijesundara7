@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTd4cW91ZjVhZnJwZThhd3Y4NDVzeWltMjc4c2sxOGc2bG1icGJ5aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTd4cW91ZjVhZnJwZThhd3Y4NDVzeWltMjc4c2sxOGc2bG1icGJ5aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
   
 </p>
 
@@ -62,7 +62,5 @@ These projects reflect my ability to design user-focused interfaces and implemen
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ashan-wijesundara-36b80431a)
 
 ---
-
-✨ *Open to internship opportunities and collaborative projects.*
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/> </p>
